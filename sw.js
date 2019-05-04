@@ -35,14 +35,14 @@ self.__precacheManifest = [
     "url": "styles-bbae2580e6674cf46a2c.js"
   },
   {
-    "url": "app-a4d6c9e9b6c7e3f1602d.js"
+    "url": "app-60267db38b921ae65ff2.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-f6cca69ed972dbc1fd1c.js"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "d15d54147722d270528e0737cf202950"
+    "revision": "88da6d6d57303dc5e9ef3d665dfcea69"
   },
   {
     "url": "component---src-pages-404-js-a14f8a9302b9f09ca605.js"
@@ -61,7 +61,7 @@ self.__precacheManifest = [
   },
   {
     "url": "manifest.webmanifest",
-    "revision": "8f48cf86a1beb3d3229752d0fb89eb16"
+    "revision": "b6a61797d3fc69109b5a41d2ac64b403"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
