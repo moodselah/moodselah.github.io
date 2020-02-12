@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[MOOOD]]></title><description><![CDATA[moodselah dev blog]]></description><link>https://moood.dev</link><generator>RSS for Node</generator><lastBuildDate>Sat, 26 Oct 2019 12:28:18 GMT</lastBuildDate><item><title><![CDATA[[번역] Performance Profiling Your React App]]></title><description><![CDATA[이 글은 Christian Nwamba의  Performance Profiling Your React App 을 번역한 글입니다. 원문:  https://www.telerik.com/blogs/performance-profiling-your-react…]]></description><link>https://moood.dev/reactjs/performance-profiling-your-react-app/</link><guid isPermaLink="false">https://moood.dev/reactjs/performance-profiling-your-react-app/</guid><pubDate>Wed, 08 May 2019 21:05:34 GMT</pubDate><content:encoded>&lt;p&gt;이 글은 Christian Nwamba의 &lt;strong&gt;Performance Profiling Your React App&lt;/strong&gt;을 번역한 글입니다.&lt;br&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[MOOOD]]></title><description><![CDATA[moodselah dev blog]]></description><link>https://moood.dev</link><generator>RSS for Node</generator><lastBuildDate>Wed, 12 Feb 2020 13:15:47 GMT</lastBuildDate><item><title><![CDATA[[번역] Performance Profiling Your React App]]></title><description><![CDATA[이 글은 Christian Nwamba의  Performance Profiling Your React App 을 번역한 글입니다. 원문:  https://www.telerik.com/blogs/performance-profiling-your-react…]]></description><link>https://moood.dev/reactjs/performance-profiling-your-react-app/</link><guid isPermaLink="false">https://moood.dev/reactjs/performance-profiling-your-react-app/</guid><pubDate>Wed, 08 May 2019 21:05:34 GMT</pubDate><content:encoded>&lt;p&gt;이 글은 Christian Nwamba의 &lt;strong&gt;Performance Profiling Your React App&lt;/strong&gt;을 번역한 글입니다.&lt;br&gt;
 원문: &lt;a href=&quot;https://www.telerik.com/blogs/performance-profiling-your-react-app&quot;&gt;https://www.telerik.com/blogs/performance-profiling-your-react-app&lt;/a&gt;
 &lt;br&gt;&lt;br&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -281,7 +281,7 @@
 &lt;/colgroup&gt;
 &lt;tr style=&quot;border-top: 1px solid hsla(0,0%,0%,0.12);&quot;&gt;
     &lt;th&gt;Period&lt;/th&gt;
-    &lt;td&gt;2018.06 ~ &lt;/td&gt;
+    &lt;td&gt;2018.06 ~&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
     &lt;th&gt;Position&lt;/th&gt;
@@ -289,7 +289,7 @@
 &lt;/tr&gt;
 &lt;tr&gt;
     &lt;th style=&quot;vertical-align: top&quot;&gt;Projects&lt;/th&gt;
-    &lt;td style=&quot;word-break: break-all&quot;&gt;OKEx Korea React Native App, OKEx Korea React Web (2019.08 ~ ing)&lt;/td&gt;
+    &lt;td style=&quot;word-break: break-all&quot;&gt;OKEx Korea React Native App, OKEx Korea React Web&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
     &lt;th style=&quot;vertical-align: top&quot;&gt;Tech Experience&lt;/th&gt;
